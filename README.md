@@ -18,7 +18,7 @@ Ping 1.1.1.1 by piping the output of the "echo" command
 
 
 WRONG USAGE and will not work (default from Windows)
-echo: 1.1.1.1 | ping
+##### echo: 1.1.1.1 | ping
 
 RIGHT USAGE and will work
-echo: 1.1.1.1 | xargs ping
+##### echo: 1.1.1.1 | xargs ping
