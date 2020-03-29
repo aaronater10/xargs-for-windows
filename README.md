@@ -21,6 +21,6 @@ WRONG USAGE and will not work (default from Windows)
 #
 RIGHT USAGE and will work (with xargs installed)
 ##### echo: 1.1.1.1 | xargs ping
-#
+
 # Video Tutorial
 <https://youtu.be/vaXEg0Wtbrw>
