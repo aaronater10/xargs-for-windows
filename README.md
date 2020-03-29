@@ -16,9 +16,10 @@ As far as what that is. Spend some time watching tutorials or researching to hel
 # Example of Correct Usage
 Ping 1.1.1.1 by piping the output of the "echo" command
 #
-#
 WRONG USAGE and will not work (default from Windows)
 ##### echo: 1.1.1.1 | ping
 #
-RIGHT USAGE and will work
+RIGHT USAGE and will work (with xargs installed)
 ##### echo: 1.1.1.1 | xargs ping
+
+# Video Tutorial (Coming Soon)
